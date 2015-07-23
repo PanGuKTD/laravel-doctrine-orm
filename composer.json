@@ -1,5 +1,6 @@
 {
     "name": "panguktd/laravel-doctrine-orm",
+    "version":"1.0.0",
     "description": "Doctrine 2.5 For Laravel .",
     "keywords": ["doctrine", "laravel"],
     "license": "MIT",
@@ -9,7 +10,7 @@
     },
     "autoload": {
         "psr-4": {
-            "PanGuKTD\\LaravelDoctrineORM\\": "/"
+            "PanGuKTD\\LaravelDoctrineORM\\": "src/"
         }
     },
     "config": {
